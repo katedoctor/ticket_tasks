@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.katedoctor.tickettasks.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.katedoctor.tickettasks.MyBundle
 
 class MyApplicationService {
 
